@@ -25,3 +25,14 @@ To analyze electric vehicle (EV) data to understand adoption trends, vehicle typ
 ## DASHBOARD
 <img width="1999" height="1124" alt="Electric Vehicle  Dashboard" src="https://github.com/user-attachments/assets/43de6fbc-6262-4eba-a673-870985c706df" />
 
+## Project Insights
+-	Battery Electric Vehicles (BEVs) dominate the market, accounting for the majority of total EV registrations.
+-	Tesla leads EV adoption by a significant margin, with multiple models contributing to high volumes.
+-	EV adoption shows a strong upward trend in recent model years, indicating growing consumer acceptance.
+-	A few states contribute a large share of total EVs, highlighting regional concentration in adoption.
+-	Nearly half of the vehicles are CAFV eligible, showing increasing alignment with clean fuel standards
+  
+## Final Conclusion:
+- This analysis provides a clear view of electric vehicle growth, market leaders, and regional adoption patterns. By combining Excel for data preparation and Tableau for visualization, the dashboard delivers actionable insights that support understanding of EV market trends and informed decision-making.
+
+
